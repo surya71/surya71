@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently Studying in **Madras Institue Of Technology**
 
-- 🌱 I’m currently learning **Graphql**
+- 🌱 I’m currently learning **Natural Language Processing, Internet Of Things**
 
 - 💬 Ask me about **Javascript, C, C++, Express , Graphql**
 
